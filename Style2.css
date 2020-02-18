@@ -39,7 +39,7 @@
     margin-bottom: 150px;
 }
 .clean{
-    clear: both;
+  clear: both;
 }
 input[type=text] {
     width: 100%;
@@ -50,23 +50,42 @@ input[type=text] {
     box-shadow: 5 5 5 5;
     border-radius: 4px;
 }
+
 .btn {
-    width: 15%;
-    padding: 12px 20px;
-    margin-left: 40%;
-    box-sizing: border-box;
-    border: 2px solid #9f59db;
-    border-radius: 4px;
-    font-size: 20px;
-    color: #9f59db;
-    background-color: white;
-  
+width: 15%;
+
+padding: 12px 20px;
+margin-left: 40%;
+box-sizing: border-box;
+border: 2px solid #9f59db;
+border-radius: 4px;
+font-size: 20px;
+color: #9f59db;
+background-color: white;
+
 }
+
+
+
+
+
+
+
+
 input[type=text]:hover{
-    box-shadow: 0px 2px 8px 5px #9f59db; 
+box-shadow: 0px 2px 8px 5px #9f59db; 
 }
+
 .btn:hover{
-    box-shadow: 0px 2px 8px 5px #9f59db; 
+box-shadow: 0px 2px 8px 5px #9f59db; 
+}
+.add{
+    
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 150px;
+
 }
 footer{
 	width: 100%;
@@ -162,24 +181,25 @@ footer p {
 	width: 50%;
 }
 .p-title{
-    font-family: 'Brandon Grotesque';
-    color:#fff;
-    font-size: 52px !important;
+  font-family: 'Brandon Grotesque';
+  color:#fff;
+  font-size: 52px !important;
 }
 .bg .sec .des h4 {
-    font-family: 'Brandon Grotesque light';
-    color: rgb(221, 138, 221);
+  font-family: 'Brandon Grotesque light';
+  color: rgb(221, 138, 221);
 }
 .bg .sec .des .cont p{
-    margin-top: 2%;
-    font-family: 'Brandon Grotesque light';
-    color: white;
-    font-size: 25px;
+  margin-top: 2%;
+  font-family: 'Brandon Grotesque light';
+  color: white;
+  font-size: 25px;
 }
 .bg .sec .des .cont li {
-    margin-top: 5%;
-    font-family: 'Brandon Grotesque light';
-    color: white;
-    font-size: 23px;
-    margin-left: 5%;
+  margin-top: 5%;
+  font-family: 'Brandon Grotesque light';
+  color: white;
+  font-size: 23px;
+  margin-left: 5%;
 }
+
