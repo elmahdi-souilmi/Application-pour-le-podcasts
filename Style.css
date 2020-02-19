@@ -14,6 +14,14 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.bg h2 {
+  position: absolute;
+  font-family: 'Brandon Grotesque Black';
+  color: white;
+  margin-left: 35%;
+  margin-top: 3%;
+  font-size: 70px;
+}
 .gif img{
   margin-top: 20px;
   width: 345px;
